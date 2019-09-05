@@ -1,0 +1,4 @@
+Here you can see custom block allocator
+
+For compile use make. Also please check CC variable
+it should take automatically your native system compiler.
